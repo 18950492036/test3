@@ -1,0 +1,11 @@
+[0513/090658:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0513/090703:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0513/090708:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0513/090713:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0513/090718:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0513/090723:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0513/090728:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0513/141023:INFO:http_cache_transaction.cc(72)] IgnoreZeroCacheError: 0
+[0513/141026:WARNING:url_request_job_manager.cc(89)] Failed to map: weixin://resourceid/blank
+[0513/142509:WARNING:url_request_job_manager.cc(89)] Failed to map: weixin://resourceid/blank
+[0513/200603:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
